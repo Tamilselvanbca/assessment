@@ -1,0 +1,54 @@
+OOPS – OBJECT ORIENT PROGRAMMING CONCEPTS
+1. D.Inheritance 
+2. D.Inheritance 
+3. 1. It is a way of combining various data members and member functions that operate on those data members into a single unit 
+4. C.Multi-level 
+5. C.The student_details, topper and average classes together can show the concept of polymorphism 
+
+MVC – MODEL VIEW CONTROLLER
+6. A.System.Web.Razor
+7. A.DataAnnotations 
+8. E.A, C and D 
+9. D.PhoneNumber: @Html.TextBox("phoneNumber", Request["phoneNumber"], new { size = 10 })
+10. B.<%: Model.FirstName %>  
+11. C.Session["LoginID"] =7;
+12. A.@Html.Partial("_PartialHeader") 
+13. B.var _controller = HttpContext.Current.Request.RequestContext.RouteData.Values["Controller"].ToString(); 
+14. A._ViewStart.cshtml 
+15. A.< asp:Calendar ID="Calendar1" runat="server" SelectedDate="2022-09-04"></asp:Calendar> 
+
+HTML+CSS
+16. C.Both A and B 
+17. B.<p style="color: red;">
+18. D.<p>H<sub>2</sub>O</p> 
+19. C.<iframe src="url" title="description"></iframe>
+20. A.Charset in both html and xhtml is “text/html” 
+21. D.scheme://prefix.domain:port/path/filename 
+22. A.<link rel="stylesheet" type="text/css" href="mystyle.css"> 
+23. A.list-style-image 
+24. D.Both A And B 
+25. B.container
+26. B.<img src= “www.ggsh.com/admin.jpg” alt= “Objective Books” />
+27. A.background-color: rgba(0, 0, 255, 0.3) 
+28. D.<a href="https://www. ggsh.com/"><img src="https://www.ggsh.com/sanfoundry-logo" /></a>
+29. B.beginPath() 
+30. B.span=number[CN].
+
+JAVASCRIPT
+31. B.Registering appropriate event handlers
+32. C.A URL that uses the special javascript
+33. C.Volvo
+34. A.two three
+35. C.Both Memory and Disk
+36. B.createObjectURL()
+37. C.Unique number is retrieved as elem[jQuery.expando] & Data is read from jQuery.cache[id]
+38. D.Window
+39. B. parent.parent
+40. B.CanvasRenderingContext2D object
+41. A.1
+42. C.More efficient
+43. B.myHead
+44. A.ng-bind="expression"
+45. A.Prints the city names with "Hello" in an unordered list 
+
+

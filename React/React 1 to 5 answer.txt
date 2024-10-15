@@ -1,0 +1,18 @@
+1. How to create components in React?
+    1. Components in React JS is are the core of building React applications. 
+    2.Components are the building blocks that contains UI elements and logic, making the development process easier and reusable.
+2. When to use a Class Component over a Function Component? 
+    1.Class components are used for components that need to manage state or have lifecycle methods 
+    2.Function components gained the ability to manage state and use lifecycle methods, blurring the distinction between function and class components.
+
+3. What are Pure Components and explain with a snippet? 
+    1.Pure Components in React is a component that optimizes rendering by avoiding unnecessary updates
+
+4. What is the diƯerence between state and props? 
+    1.state is used to manage internal component data 
+    2.props are used to pass data from a parent component to a child component
+
+5. What is the use of react-DOM package and name its packages?
+    The react-dom package is a part of the React library for building user interfaces
+      1.react-dom/client contains APIs to render React components on the client.
+      2.react-dom/server contains APIs to render React components on the server.
